@@ -18,7 +18,7 @@
 
 ***Unlocked Tools: No ads, Volume profile, Custom timeframes, Custom Range Bars, Multiple watchlists, Bar Replay, Indicators on indicators, Intraday Renko, Kagi, Line Break, Point & Figure charts, Charts based on custom formulas, Chart data export, Auto Chart Patterns, Second-based alerts, Alerts that don't expire, Publishing invite-only scripts, Time Price Opportunities, Second-based intervals, Financial data export, Ability to buy professional market data***
 
-# Video Showcase
+# Showcase
 
 ![1](https://github.com/1Tsubasa/trading-view-app/blob/main/image/traderv.gif?raw=true)
 
