@@ -20,5 +20,5 @@
 
 # Video Showcase
 
-[1](https://github.com/1Tsubasa/trading-view-app/blob/main/image/traderv.gif?raw=true)
+![1](https://github.com/1Tsubasa/trading-view-app/blob/main/image/traderv.gif?raw=true)
 
